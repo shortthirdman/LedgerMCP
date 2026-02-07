@@ -1,0 +1,10 @@
+ta
+numpy
+openai
+pandas
+vectorbt
+yfinance
+mcp>=0.3.0
+uvicorn>=0.30.0
+starlette>=0.37.0
+fastapi>=0.115.0
