@@ -68,6 +68,8 @@ It **serves context**—cleanly, deterministically, and transparently.
 
 Read more [here](https://medium.datadriveninvestor.com/build-your-own-financial-data-mcp-server-that-chatgpt-can-talk-to-cec9b68d0b84).
 
+[FMP MCP Server](https://github.com/damianboh/fmp_mcp_server)
+
 ---
 
 ## Key Features
